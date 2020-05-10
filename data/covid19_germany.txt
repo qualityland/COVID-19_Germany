@@ -1223,3 +1223,23 @@ Sachsen-Anhalt  1.637   +22 74  48
 Schles­wig-Holstein 2.898   +38 100 122
 Thüringen   2.533   +21 118 115
 Gesamt  168.551 +1.251  203 7.369
+
+Stand: 10.5.2020, 00:00 Uhr
+Baden-Württem­berg  33.287  +182    301 1.542
+Bayern  44.265  +96 339 2.153
+Berlin  6.261   +19 167 165
+Brandenburg 3.101   +3  123 134
+Bremen  1.043   +19 153 32
+Hamburg 4.772   +0  259 204
+Hessen  8.998   +82 144 411
+Mecklenburg-
+Vor­pommern 726 +4  45  19
+Niedersachsen   10.827  +24 136 498
+Nordrhein-West­falen    34.964  +147    195 1.425
+Rhein­land-Pfalz    6.291   +9  154 195
+Saarland    2.663   +3  269 142
+Sachsen 4.886   +13 120 187
+Sachsen-Anhalt  1.640   +3  74  48
+Schles­wig-Holstein 2.938   +40 101 123
+Thüringen   2.556   +23 119 117
+Gesamt  169.218 +667    204 7.395
