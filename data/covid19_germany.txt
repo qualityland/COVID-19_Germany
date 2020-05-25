@@ -1443,3 +1443,63 @@ Sachsen-Anhalt  1.680   +1  76  54
 Schles­wig-Holstein 3.014   +12 104 131
 Thüringen   2.760   +10 129 149
 Gesamt  176.007 +797    212 8.090
+
+Stand: 21.5.2020, 00:00 Uhr
+Baden-Württem­berg  34.175  +60 309 1.680
+Bayern  45.929  +163    351 2.348
+Berlin  6.555   +48 175 186
+Brandenburg 3.205   +12 128 151
+Bremen  1.273   +17 186 39
+Hamburg 5.053   +11 274 239
+Hessen  9.574   +91 153 451
+Mecklenburg-
+Vor­pommern 762 +7  47  20
+Niedersachsen   11.362  +74 142 566
+Nordrhein-West­falen    36.912  +146    206 1.546
+Rhein­land-Pfalz    6.555   +26 160 224
+Saarland    2.706   +3  273 157
+Sachsen 5.185   +35 127 201
+Sachsen-Anhalt  1.689   +9  76  54
+Schles­wig-Holstein 3.021   +7  104 134
+Thüringen   2.796   +36 130 151
+Gesamt  176.752 +745    213 8.147
+
+Stand: 24.5.2020, 00:00 Uhr
+Baden-Württem­berg  34.399  +54 311 1.697
+Bayern  46.206  +74 353 2.377
+Berlin  6.637   +23 177 191
+Brandenburg 3.214   +1  128 154
+Bremen  1.299   +3  190 41
+Hamburg 5.066   +3  275 241
+Hessen  9.762   +92 156 460
+Mecklenburg-
+Vor­pommern 760 -3  47  20
+Niedersachsen   11.578  +57 145 572
+Nordrhein-West­falen    37.223  +84 208 1.563
+Rhein­land-Pfalz    6.590   +8  161 227
+Saarland    2.713   +4  274 157
+Sachsen 5.221   +2  128 204
+Sachsen-Anhalt  1.694   +2  77  54
+Schles­wig-Holstein 3.062   +0  106 137
+Thüringen   2.857   +27 133 152
+Gesamt  178.281 +431    214 8.247
+
+Stand: 25.5.2020, 00:00 Uhr
+Baden-Württem­berg  34.431  +32 311 1.698
+Bayern  46.326  +120    354 2.382
+Berlin  6.642   +5  177 191
+Brandenburg 3.214   0   128 154
+Bremen  1.312   +13 192 41
+Hamburg 5.069   +3  275 241
+Hessen  9.770   +8  156 460
+Mecklenburg-
+Vor­pommern 760 0   47  20
+Niedersachsen*  11.578  0   145 572
+Nordrhein-West­falen    37.298  +75 208 1.565
+Rhein­land-Pfalz    6.596   +6  161 228
+Saarland    2.716   +3  274 157
+Sachsen 5.231   +10 128 205
+Sachsen-Anhalt  1.694   0   77  54
+Schles­wig-Holstein 3.062   0   106 137
+Thüringen   2.871   +14 134 152
+Gesamt  178.570 +289    215 8.257
