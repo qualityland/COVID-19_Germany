@@ -1723,3 +1723,83 @@ Sachsen-Anhalt  1.720   +3  12  0,5 56
 Schles­wig-Holstein 3.109   +2  13  0,4 147
 Thüringen   3.077   +11 63  2,9 170
 Gesamt  183.979 +301    2.105   2,5 8.668
+
+Stand: 9.6.2020, 00:00 Uhr
+Baden-Württem­berg  34.958  +21 162 1,5 1.795
+Bayern  47.423  +52 305 2,3 2.521
+Berlin  7.042   +26 200 5,3 205
+Branden­burg    3.302   -2  24  1,0 160
+Bremen  1.532   +1  96  14,1    43
+Hamburg 5.117   +2  21  1,1 254
+Hessen  10.237  +30 159 2,5 484
+Meck­lenburg-
+Vor­pommern 780 +6  13  0,8 20
+Nieder­sachsen  12.601  +92 485 6,1 606
+Nord­rhein-West­falen   38.743  +83 633 3,5 1.635
+Rhein­land-Pfalz    6.787   +6  79  1,9 230
+Saarland    2.754   +7  22  2,2 167
+Sachsen 5.333   +3  30  0,7 217
+Sachsen-Anhalt  1.720   0   12  0,5 56
+Schles­wig-Holstein 3.114   +4  10  0,3 148
+Thüringen   3.100   +19 73  3,4 170
+Gesamt  184.543 350 2.324   2,8 8.711
+
+Stand: 11.6.2020, 00:00 Uhr
+Baden-Württem­berg  35.002  +37 167 1,5 1.801
+Bayern  47.536  +57 336 2,6 2.536
+Berlin  7.138   +56 204 5,4 208
+Branden­burg    3.352   +43 40  1,6 161
+Bremen  1.565   +18 101 14,8    43
+Hamburg 5.125   +4  17  0,9 254
+Hessen  10.296  +40 161 2,6 489
+Meck­lenburg-
+Vor­pommern 778 +1  15  0,9 20
+Nieder­sachsen  12.727  +101    424 5,3 610
+Nord­rhein-West­falen   38.983  +138    694 3,9 1.641
+Rhein­land-Pfalz    6.827   +17 95  2,3 231
+Saarland    2.766   +3  29  2,9 167
+Sachsen 5.346   +9  29  0,7 219
+Sachsen-Anhalt  1.728   +7  17  0,8 56
+Schles­wig-Holstein 3.117   +2  12  0,4 148
+Thüringen   3.130   +22 80  3,7 171
+Gesamt  185.416 +555    2.421   2,9 8.755
+
+Stand: 12.6.2020, 00:00 Uhr
+Baden-Württem­berg  35.057  +55 160 1,4 1.802
+Bayern  47.574  +38 289 2,2 2.538
+Berlin  7.165   +27 199 5,3 208
+Branden­burg    3.306   -46*    25  1,0 161
+Bremen  1.573   +8  75  11,0    45
+Hamburg 5.134   +9  21  1,1 254
+Hessen  10.313  +17 148 2,4 489
+Meck­lenburg-
+Vor­pommern 780 +2  16  1,0 20
+Nieder­sachsen  12.777  +50 384 4,8 610
+Nord­rhein-West­falen   39.060  +77 635 3,5 1.643
+Rhein­land-Pfalz    6.827   0   67  1,6 231
+Saarland    2.769   +3  31  3,1 168
+Sachsen 5.344   -2  23  0,6 219
+Sachsen-Anhalt  1.732   +4  15  0,7 56
+Schles­wig-Holstein 3.120   +3  15  0,5 148
+Thüringen   3.143   +13 78  3,6 171
+Gesamt  185.674 +258    2.181   2,6 8.763
+
+Stand: 13.6.2020, 00:00 Uhr
+Baden-Württem­berg  35.090  +33 153 1,4 1.805
+Bayern  47.612  +38 273 2,1 2.540
+Berlin  7.252   +87 254 6,8 208
+Branden­burg    3.326   +20 29  1,2 163
+Bremen  1.581   +8  68  10,0    45
+Hamburg 5.139   +5  22  1,2 255
+Hessen  10.321  +8  131 2,1 491
+Meck­lenburg-
+Vor­pommern 781 +1  14  0,9 20
+Nieder­sachsen  12.822  +45 339 4,2 613
+Nord­rhein-West­falen   39.137  +77 599 3,3 1.643
+Rhein­land-Pfalz    6.838   +11 56  1,4 231
+Saarland    2.770   +1  27  2,7 168
+Sachsen 5.345   +1  21  0,5 219
+Sachsen-Anhalt  1.734   +2  15  0,7 56
+Schles­wig-Holstein 3.120   0   13  0,4 150
+Thüringen   3.154   +11 69  3,2 174
+Gesamt  186.022 +348    2.083   2,5 8.781
